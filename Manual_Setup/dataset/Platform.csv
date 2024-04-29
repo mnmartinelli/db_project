@@ -1,0 +1,35 @@
+PlatformID,PlatformName,GenerationID,Full_Title,Year_Launched,PublisherID
+1,3DS,8,Nintendo 3DS,2011,2
+2,DS,7,Nintendo DS,2004,2
+3,PS3,7,PlayStation 3,2006,23
+4,PS2,6,PlayStation 2,2000,23
+5,PSP,7,PlayStation Portable,2005,23
+6,X360,7,XBOX 360,2005,584
+7,PC,,Personal Computer,1981,
+8,PS,5,PlayStation,1994,23
+9,Wii,7,Wii,2006,2
+10,N64,5,Nintendo 64,1996,2
+11,GC,6,Game Cube,2001,2
+12,XB,6,XBOX,2001,584
+13,NES,3,Nintendo Entertainment System,1983,2
+14,GBA,6,Game Boy Advance,2001,2
+15,PSV,8,PlayStation Vita,2011,23
+16,XOne,8,Xbox One,2013,584
+17,PS4,8,PlayStation 4,2013,23
+18,SNES,4,Super Nintendo Entertainment System,1990,2
+19,2600,2,Atari 2600,1977,5
+20,WiiU,8,Wii U,2012,2
+21,SAT,5,Saturn,1994,22
+22,GB,4,Game Boy Advance,1989,2
+23,NG,4,Neo Geo,1990,162
+24,GEN,4,Genesis ,1989,22
+25,SCD,4,Sega CD,1991,22
+26,PCFX,5,PC-FX,1994,213
+27,DC,6,Dreamcast,1998,22
+28,3DO,5,3DO Interactive Multiplayer,1993,585
+29,WS,6,WonderSwan,1999,4
+30,TG16,4,TurboGrafx-16,1987,213
+31,GG,4,Game Gear,1990,22
+32,NX,8,Nintendo Switch,2017,2
+33,PS5,9,PlayStation 5,2020,23
+34,XBOXS/X,9,Xbox Series S & Xbox Series X,2020,584
